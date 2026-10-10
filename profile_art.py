@@ -192,7 +192,7 @@ def render_avatar(path, static=False):
     ramp = ' .:-=+*#%@'
     rows = [''.join(ramp[round((255-image.getpixel((x,y)))/255*(len(ramp)-1))] for x in range(64)) for y in range(34)]
     parts = svg_start(370,390,'Ashish John ASCII GitHub avatar',
-        'A monochrome ASCII rendering of my existing GitHub identicon, revealed once line by line.')
+        'A monochrome ASCII rendering of my GitHub profile photo, revealed once line by line.')
     parts += [text(22,35,'ashish@github:~$ avatar',14,BLUE),
         f'<line x1="22" y1="51" x2="348" y2="51" stroke="{LINE}"/>']
     if not static:

@@ -8,7 +8,7 @@
   <h3><code>ashish@github ~ $ whoami</code></h3>
   <table>
     <tr>
-      <td valign="top"><img src="./ashish-ascii.svg" width="370" alt="Animated ASCII version of my GitHub avatar" /></td>
+      <td valign="top"><img src="./ashish-ascii.svg?v=312edab71209" width="370" alt="Animated ASCII portrait from my current GitHub photo" /></td>
       <td valign="top"><img src="./info-card.svg" width="490" alt="Ashish John, .NET Backend Developer. .NET, ASP.NET and VB.NET: intermediate to advanced. SQL: intermediate. Angular and AI with .NET: beginner." /></td>
     </tr>
   </table>
