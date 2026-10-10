@@ -1,0 +1,45 @@
+name: Refresh contribution city and public dashboard
+
+on:
+  schedule:
+    - cron: '33 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/profile-3d.yml'
+      - 'refresh_dashboard.py'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-art
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out the profile
+        uses: actions/checkout@v7
+      - name: Generate the real contribution city
+        uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39 # v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Refresh public statistics and image versions
+        run: python refresh_dashboard.py
+      - name: Save generated profile art
+        run: |
+          git add profile-3d-contrib public-stats.json hero.svg id-dashboard.svg README.md
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh contribution city and dashboard [skip ci]"
+          git push
