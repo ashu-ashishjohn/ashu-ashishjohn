@@ -1,17 +1,11 @@
-<h3 align="center">Hi, I'm Ashish John</h3>
-<p align="center"><strong>.NET Backend Developer</strong><br/>C# · ASP.NET · VB.NET · SQL Server · REST APIs</p>
-
 <div align="center">
-  <h3><code>ashish@github ~ $ ./contributions</code></h3>
-  <img src="./contrib-heatmap.svg?v=a6edb82b19eb" width="860" alt="Ashish John's real public GitHub contributions over the past year, refreshed daily" />
+  <img src="./hero.svg?v=e61af61aa6f8" width="1000" alt="Hi, I'm Ashish John, a .NET backend developer in India. I build backend services, data workflows and REST APIs, and I am open to backend and full-stack roles." />
   <br/><br/>
-  <h3><code>ashish@github ~ $ whoami</code></h3>
-  <table>
-    <tr>
-      <td valign="top"><img src="./ashish-ascii.svg?v=312edab71209" width="370" alt="Animated ASCII portrait from my current GitHub photo" /></td>
-      <td valign="top"><img src="./info-card.svg?v=b91bac4bc05b" width="490" alt="Ashish John, .NET Backend Developer. .NET, ASP.NET and VB.NET: intermediate to advanced. SQL: intermediate. Angular and AI with .NET: beginner." /></td>
-    </tr>
-  </table>
+  <img src="./about-life.svg?v=6b6b671c9578" width="1000" alt="What I build: .NET backend services, SQL data workflows and practical Angular pages. My learning themes are .NET, Angular and AI with .NET." />
+  <br/><br/>
+  <img src="./stack.svg?v=503111c12da7" width="1000" alt="Technology orbit: .NET, ASP.NET and VB.NET intermediate to advanced; SQL Server intermediate; Angular and AI with .NET beginner." />
+  <br/><br/>
+  <img src="./id-dashboard.svg?v=a86fb50a0a03" width="1000" alt="Illustrated developer ID for Ashish John beside his real public GitHub repository, star and follower counts, refreshed daily. Currently building GHAR." />
 </div>
 
 ### What I work with
@@ -23,24 +17,30 @@
 | Angular | Beginner with practical experience | Creating pages and data tables, fixing bugs and integrating .NET APIs |
 | AI with .NET | Beginner | Foundational learning through Coursera |
 
-I work on backend services and business applications, including CRM workflows, authentication, role-based authorization and production defect resolution. I also have experience with Azure Functions, Git/TFS and Agile delivery.
+I work on backend services and business applications, including CRM workflows, authentication, role-based authorization and defect resolution. I continue to practise .NET, Angular and AI with .NET.
 
-### Building GHAR
+**Certificate:** Building AI-Powered Applications with .NET — Coursera
 
-I'm building **GHAR**, a household-management application.
+### Projects
 
-[Explore GHAR](https://hlb-api-ashish-abfxf7fxbgewgdej.centralindia-01.azurewebsites.net/login)
+| Project | Link |
+| :--- | :--- |
+| **GHAR** — household-management application I'm building | [Explore GHAR](https://hlb-api-ashish-abfxf7fxbgewgdej.centralindia-01.azurewebsites.net/login) |
+| **TechdomeSubmission** — public C# repository | [View repository](https://github.com/ashu-ashishjohn/TechdomeSubmission) |
+| **Project-internship** — public project repository | [View repository](https://github.com/ashu-ashishjohn/Project-internship) |
 
-### Learning and certification
+### My contribution city
 
-**Building AI-Powered Applications with .NET — Coursera**
-
-I'm continuing to develop my Angular skills and beginner-level knowledge of AI with .NET.
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg?v=2fa27cd1eb77" width="1000" alt="A night-time contribution city generated from my actual GitHub activity, refreshed daily." />
+</div>
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/ashish-john-078b62199/) · [GitHub repositories](https://github.com/ashu-ashishjohn?tab=repositories)
+<div align="center">
+  <img src="./connect.svg?v=9647ce2e8eff" width="1000" alt="Illustration of Ashish John pointing to LinkedIn, GitHub and GHAR contact cards. The clickable links follow below." />
+</div>
 
----
+[LinkedIn](https://www.linkedin.com/in/ashish-john-078b62199/) · [GitHub repositories](https://github.com/ashu-ashishjohn?tab=repositories) · [GHAR](https://hlb-api-ashish-abfxf7fxbgewgdej.centralindia-01.azurewebsites.net/login)
 
-<sub>Terminal-style profile inspired by <a href="https://www.avivashishta.com/blog/build-animated-github-profile-readme">Avi Vashishta's guide</a>. SVGs are stored in this repository. The contribution graph uses GitHub's public calendar and refreshes daily.</sub>
+<sub>Portfolio inspired by the <a href="https://github.com/Meghamittal0920/Meghamittal0920/blob/main/animated-github-profile-2page-guide.pdf">animated GitHub profile guide</a>. The hero uses my current GitHub photo. See <a href="./ATTRIBUTION.md">asset credits</a>. Motion is decorative; skill levels and public activity remain factual.</sub>
