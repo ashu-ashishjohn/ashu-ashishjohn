@@ -3,13 +3,13 @@
 
 <div align="center">
   <h3><code>ashish@github ~ $ ./contributions</code></h3>
-  <img src="./contrib-heatmap.svg" width="860" alt="Ashish John's real public GitHub contributions over the past year, refreshed daily" />
+  <img src="./contrib-heatmap.svg?v=a6edb82b19eb" width="860" alt="Ashish John's real public GitHub contributions over the past year, refreshed daily" />
   <br/><br/>
   <h3><code>ashish@github ~ $ whoami</code></h3>
   <table>
     <tr>
       <td valign="top"><img src="./ashish-ascii.svg?v=312edab71209" width="370" alt="Animated ASCII portrait from my current GitHub photo" /></td>
-      <td valign="top"><img src="./info-card.svg" width="490" alt="Ashish John, .NET Backend Developer. .NET, ASP.NET and VB.NET: intermediate to advanced. SQL: intermediate. Angular and AI with .NET: beginner." /></td>
+      <td valign="top"><img src="./info-card.svg?v=b91bac4bc05b" width="490" alt="Ashish John, .NET Backend Developer. .NET, ASP.NET and VB.NET: intermediate to advanced. SQL: intermediate. Angular and AI with .NET: beginner." /></td>
     </tr>
   </table>
 </div>
