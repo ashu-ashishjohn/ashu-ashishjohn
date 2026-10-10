@@ -1,16 +1,46 @@
-## Hi there 👋
+<h3 align="center">Hi, I'm Ashish John</h3>
+<p align="center"><strong>.NET Backend Developer</strong><br/>C# · ASP.NET · VB.NET · SQL Server · REST APIs</p>
 
-<!--
-**ashu-ashishjohn/ashu-ashishjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h3><code>ashish@github ~ $ ./contributions</code></h3>
+  <img src="./contrib-heatmap.svg" width="860" alt="Ashish John's real public GitHub contributions over the past year, refreshed daily" />
+  <br/><br/>
+  <h3><code>ashish@github ~ $ whoami</code></h3>
+  <table>
+    <tr>
+      <td valign="top"><img src="./ashish-ascii.svg" width="370" alt="Animated ASCII version of my GitHub avatar" /></td>
+      <td valign="top"><img src="./info-card.svg" width="490" alt="Ashish John, .NET Backend Developer. .NET, ASP.NET and VB.NET: intermediate to advanced. SQL: intermediate. Angular and AI with .NET: beginner." /></td>
+    </tr>
+  </table>
+</div>
 
-Here are some ideas to get you started:
+### What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Area | Level | Practical experience |
+| :--- | :--- | :--- |
+| .NET, ASP.NET and VB.NET | Intermediate to advanced | C#, ASP.NET Core, Web API, MVC, REST APIs and legacy application maintenance |
+| SQL Server | Intermediate | T-SQL, stored procedures, views, triggers and data access |
+| Angular | Beginner with practical experience | Creating pages and data tables, fixing bugs and integrating .NET APIs |
+| AI with .NET | Beginner | Foundational learning through Coursera |
+
+I work on backend services and business applications, including CRM workflows, authentication, role-based authorization and production defect resolution. I also have experience with Azure Functions, Git/TFS and Agile delivery.
+
+### Building GHAR
+
+I'm building **GHAR**, a household-management application.
+
+[Explore GHAR](https://hlb-api-ashish-abfxf7fxbgewgdej.centralindia-01.azurewebsites.net/login)
+
+### Learning and certification
+
+**Building AI-Powered Applications with .NET — Coursera**
+
+I'm continuing to develop my Angular skills and beginner-level knowledge of AI with .NET.
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/ashish-john-078b62199/) · [GitHub repositories](https://github.com/ashu-ashishjohn?tab=repositories)
+
+---
+
+<sub>Terminal-style profile inspired by <a href="https://www.avivashishta.com/blog/build-animated-github-profile-readme">Avi Vashishta's guide</a>. SVGs are stored in this repository. The contribution graph uses GitHub's public calendar and refreshes daily.</sub>

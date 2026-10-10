@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="390" viewBox="0 0 490 390" role="img" aria-labelledby="title description">
+<title id="title">Ashish John .NET Backend Developer</title><desc id="description">.NET, ASP.NET and VB.NET intermediate to advanced; SQL intermediate; Angular beginner with page and table creation and API integration; AI with .NET beginner.</desc>
+<rect width="490" height="390" rx="12" fill="#0d1117"/>
+<text x="24" y="35" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14" fill="#79c0ff" >ashish@github:~$ whoami</text>
+<line x1="24" y1="51" x2="466" y2="51" stroke="#30363d"/>
+<text x="24" y="86" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="25" fill="#d1d7e0" >Ashish John</text>
+<text x="24" y="113" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="16" fill="#79c0ff" >.NET Backend Developer</text>
+<style>@keyframes print{from{opacity:0}to{opacity:1}}.row{animation:print .2s both}@media(prefers-reduced-motion:reduce){.row{animation:none}}</style>
+<g class="row" style="animation-delay:0.20s">
+<text x="24" y="153" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#3fb950" >Focus</text>
+<text x="108" y="153" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#d1d7e0" >C# / ASP.NET / REST APIs</text>
+</g>
+<g class="row" style="animation-delay:0.33s">
+<text x="24" y="178" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#3fb950" >.NET</text>
+<text x="108" y="178" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#d1d7e0" >Intermediate to advanced</text>
+</g>
+<g class="row" style="animation-delay:0.46s">
+<text x="24" y="203" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#3fb950" >VB.NET</text>
+<text x="108" y="203" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#d1d7e0" >Intermediate to advanced</text>
+</g>
+<g class="row" style="animation-delay:0.59s">
+<text x="24" y="228" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#3fb950" >SQL</text>
+<text x="108" y="228" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#d1d7e0" >Intermediate</text>
+</g>
+<g class="row" style="animation-delay:0.72s">
+<text x="24" y="253" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#3fb950" >Angular</text>
+<text x="108" y="253" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#d1d7e0" >Beginner / practical experience</text>
+</g>
+<g class="row" style="animation-delay:0.85s">
+<text x="24" y="278" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#3fb950" >  work</text>
+<text x="108" y="278" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#d1d7e0" >Pages / tables / API integration</text>
+</g>
+<g class="row" style="animation-delay:0.98s">
+<text x="24" y="303" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#3fb950" >AI .NET</text>
+<text x="108" y="303" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#d1d7e0" >Beginner / Coursera</text>
+</g>
+<g class="row" style="animation-delay:1.11s">
+<text x="24" y="328" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#3fb950" >Building</text>
+<text x="108" y="328" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#d1d7e0" >GHAR / household management</text>
+</g>
+<line x1="24" y1="350" x2="466" y2="350" stroke="#30363d"/>
+<text x="24" y="374" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" fill="#8b949e" >Backend development / continuous learning</text>
+</svg>
