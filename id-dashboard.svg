@@ -9,7 +9,7 @@ text{font-family:Display,Arial,sans-serif;fill:#eef3ff}.mono{font-family:Mono,mo
 <rect x="1" y="1" width="998" height="448" rx="22" fill="#0d0e16" stroke="url(#id-dashboard-edge)" />
 <rect x="2" y="2" width="996" height="446" rx="21" fill="url(#id-dashboard-dots)" />
 <text x="389" y="55" font-size="28" class="bold">Public GitHub dashboard</text>
-<text x="389" y="82" font-size="14" class="mono muted" id="dashboard-updated">28 Oct 2026</text>
+<text x="389" y="82" font-size="14" class="mono muted" id="dashboard-updated">29 Oct 2026</text>
 <defs><linearGradient id="id-dashboard-strap" x2="1" y2="1"><stop stop-color="#22d3ee" /><stop offset="1" stop-color="#a78bfa" /></linearGradient><linearGradient id="id-dashboard-chip"><stop stop-color="#e7bf6b" /><stop offset="1" stop-color="#887047" /></linearGradient><linearGradient id="id-dashboard-sweep"><stop stop-color="#fff" stop-opacity="0" /><stop offset=".5" stop-color="#fff" stop-opacity=".16" /><stop offset="1" stop-color="#fff" stop-opacity="0" /></linearGradient><clipPath id="id-dashboard-badge-clip"><rect x="34" y="134" width="306" height="292" rx="19" /></clipPath></defs>
 <g class="lanyard"><path d="M112 0L177 130H193L258 0" fill="none" stroke="url(#id-dashboard-strap)" stroke-width="22" />
 <text x="139" y="54" font-size="12" class="mono bold" transform="rotate(63 139 54)" style="fill:#0d0e16">.NET</text>
