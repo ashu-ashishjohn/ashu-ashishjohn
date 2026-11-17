@@ -5,7 +5,7 @@
   <br/><br/>
   <img src="./stack.svg?v=503111c12da7" width="1000" alt="Technology orbit: .NET, ASP.NET and VB.NET intermediate to advanced; SQL Server intermediate; Angular and AI with .NET beginner." />
   <br/><br/>
-  <img src="./id-dashboard.svg?v=d258ed141149" width="1000" alt="Illustrated developer ID for Ashish John beside his real public GitHub repository, star and follower counts, refreshed daily. Currently building GHAR." />
+  <img src="./id-dashboard.svg?v=a80b64710add" width="1000" alt="Illustrated developer ID for Ashish John beside his real public GitHub repository, star and follower counts, refreshed daily. Currently building GHAR." />
 </div>
 
 ### What I work with
@@ -32,7 +32,7 @@ I work on backend services and business applications, including CRM workflows, a
 ### My contribution city
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg?v=f603e557294a" width="1000" alt="A night-time contribution city generated from my actual GitHub activity, refreshed daily." />
+  <img src="./profile-3d-contrib/profile-night-view.svg?v=4c5b7cb2f868" width="1000" alt="A night-time contribution city generated from my actual GitHub activity, refreshed daily." />
 </div>
 
 ### Connect
